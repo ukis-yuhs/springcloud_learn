@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/course/course.iml" filepath="$PROJECT_DIR$/course/course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course/eureka/eureka.iml" filepath="$PROJECT_DIR$/course/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course/gateway/gateway.iml" filepath="$PROJECT_DIR$/course/gateway/gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springcloud_learn.iml" filepath="$PROJECT_DIR$/.idea/springcloud_learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course/system/system.iml" filepath="$PROJECT_DIR$/course/system/system.iml" />
     </modules>
   </component>
 </project>
